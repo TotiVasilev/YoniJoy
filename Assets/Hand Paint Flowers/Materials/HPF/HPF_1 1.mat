@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: HPF_1
+  m_Name: HPF_1 1
   m_Shader: {fileID: -6465566751694194690, guid: 8b4ed3e6a53334c4cb1af17a8a5e3170,
     type: 3}
   m_ValidKeywords: []
@@ -174,7 +174,7 @@ Material:
     - _DoubleSidedConstants: {r: 1, g: 1, b: 1, a: 0}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
-    - _Tint: {r: 1, g: 0, b: 0, a: 0}
+    - _Tint: {r: 1, g: 0, b: 0.77448034, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &398334879031004928
 MonoBehaviour:

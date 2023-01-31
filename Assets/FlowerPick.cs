@@ -4,9 +4,7 @@ using UnityEngine;
 
 public class FlowerPick : MonoBehaviour
 {
-    public GameObject Flower1;
-    public GameObject Flower2;
-    public GameObject Flower3;
+    
     public GameObject pickUpText;
     bool canPressE;
     
