@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: 
     guid: 00000000000000000000000000000000
   - enabled: 1
+    path: Assets/Scenes/MainStory.unity
+    guid: 265b9380c28e5d94980022eb28697e5a
+  - enabled: 1
     path: Assets/Scenes/YoniJoy1.unity
     guid: 30f1e342ed4f76f42b210474a8cb99c9
   m_configObjects: {}
